@@ -1,2 +1,1 @@
-# Terms-And-Service
-Pray
+thank you for using our bot.
